@@ -1,0 +1,3 @@
+Model,Test_Months,MAE,RMSE
+Random Forest,12,13764.75,15995.8
+Seasonal Baseline,12,18031.99,20424.97
